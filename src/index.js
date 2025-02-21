@@ -355,26 +355,26 @@ function setColorPanel(pieces) {
   const uniqueColors = [...new Set(colors)];
   const initialPos = Math.floor(uniqueColors.length / 2);
   shuffle(uniqueColors).forEach((color, i) => {
-    const div = document.createElement("div");
+    const button = document.createElement("button");
     if (i == initialPos) {
-      div.style.width = "96px";
-      div.style.height = "96px";
-      selectedColorNode = div;
+      button.style.width = "96px";
+      button.style.height = "96px";
+      selectedColorNode = button;
     } else {
-      div.style.width = "64px";
-      div.style.height = "64px";
+      button.style.width = "64px";
+      button.style.height = "64px";
     }
-    div.style.cursor = "pointer";
-    div.style.backgroundColor = color;
-    div.setAttribute("class", "border border-5 rounded-circle");
-    div.onclick = () => {
+    button.type = "button";
+    button.style.backgroundColor = color;
+    button.setAttribute("class", "border border-5 rounded-circle");
+    button.onclick = () => {
       selectedColorNode.style.width = "64px";
       selectedColorNode.style.height = "64px";
-      div.style.width = "96px";
-      div.style.height = "96px";
-      selectedColorNode = div;
+      button.style.width = "96px";
+      button.style.height = "96px";
+      selectedColorNode = button;
     };
-    colorPanel.appendChild(div);
+    colorPanel.appendChild(button);
   });
 }
 
