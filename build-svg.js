@@ -1,5 +1,5 @@
-import { basename } from "https://deno.land/std/path/mod.ts";
-import { expandGlobSync } from "https://deno.land/std/fs/mod.ts";
+import { basename } from "@std/path";
+import { expandGlobSync } from "@std/fs";
 
 function fluentUIEmoji() {
   console.log("Fluent UI Emoji");
