@@ -1,8 +1,6 @@
 import { toPixelData } from "https://cdn.jsdelivr.net/npm/html-to-image@1.11.11/+esm";
 import { createWorker } from "https://cdn.jsdelivr.net/npm/emoji-particle@0.0.4/+esm";
 
-document.getElementById("gamePanel")
-  .appendChild(document.getElementById("gamePanelTemplate").content);
 const courseNode = document.getElementById("course");
 const emojiParticle = initEmojiParticle();
 let audioContext;
@@ -441,9 +439,8 @@ async function nextProblem() {
   removeUseTags(svg);
   uniqIds(svg);
 
-  const targets = document.querySelectorAll("#problems .iconContainer");
-  targets[0].replaceChildren(tehon);
-  targets[1].replaceChildren(svg);
+  document.getElementById("tehon").replaceChildren(tehon);
+  document.getElementById("pieces").replaceChildren(svg);
 
   const pieces = getPieces(svg);
   setColorPanel(pieces);
