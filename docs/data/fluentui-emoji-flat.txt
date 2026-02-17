@@ -98,6 +98,7 @@ black_medium_square.svg
 black_nib.svg
 black_small_square.svg
 black_square_button.svg
+blackbird.svg
 blossom.svg
 blowfish.svg
 blue_book.svg
@@ -126,10 +127,12 @@ briefcase.svg
 briefs.svg
 bright_button.svg
 broccoli.svg
+broken_chain.svg
 broken_heart.svg
 broom.svg
 brown_circle.svg
 brown_heart.svg
+brown_mushroom.svg
 brown_square.svg
 bubble_tea.svg
 bubbles.svg
@@ -299,6 +302,7 @@ dog.svg
 dog_face.svg
 dollar_banknote.svg
 dolphin.svg
+donkey.svg
 door.svg
 dotted_line_face.svg
 dotted_six-pointed_star.svg
@@ -412,11 +416,13 @@ fleur-de-lis.svg
 floppy_disk.svg
 flower_playing_cards.svg
 flushed_face.svg
+flute.svg
 fly.svg
 flying_disc.svg
 flying_saucer.svg
 fog.svg
 foggy.svg
+folding_hand_fan.svg
 fondue.svg
 footprints.svg
 fork_and_knife.svg
@@ -446,6 +452,7 @@ gear.svg
 gem_stone.svg
 gemini.svg
 ghost.svg
+ginger_root.svg
 giraffe.svg
 glass_of_milk.svg
 glasses.svg
@@ -459,6 +466,7 @@ goal_net.svg
 goat.svg
 goblin.svg
 goggles.svg
+goose.svg
 gorilla.svg
 graduation_cap.svg
 grapes.svg
@@ -468,6 +476,7 @@ green_circle.svg
 green_heart.svg
 green_salad.svg
 green_square.svg
+grey_heart.svg
 grimacing_face.svg
 grinning_cat.svg
 grinning_cat_with_smiling_eyes.svg
@@ -479,6 +488,7 @@ grinning_squinting_face.svg
 growing_heart.svg
 guide_dog.svg
 guitar.svg
+hair_pick.svg
 hamburger.svg
 hammer.svg
 hammer_and_pick.svg
@@ -488,6 +498,8 @@ hamster.svg
 handbag.svg
 handshake.svg
 hatching_chick.svg
+head_shaking_horizontally.svg
+head_shaking_vertically.svg
 headphone.svg
 headstone.svg
 hear-no-evil_monkey.svg
@@ -533,6 +545,7 @@ hugging_face.svg
 hundred_points.svg
 hushed_face.svg
 hut.svg
+hyacinth.svg
 ice.svg
 ice_cream.svg
 ice_hockey.svg
@@ -572,6 +585,7 @@ japanese_symbol_for_beginner.svg
 japanese_vacancy_button.svg
 jar.svg
 jeans.svg
+jellyfish.svg
 joker.svg
 joystick.svg
 kaaba.svg
@@ -591,6 +605,7 @@ keycap_8.svg
 keycap_9.svg
 keycap_asterisk.svg
 keycap_hashtag.svg
+khanda.svg
 kick_scooter.svg
 kimono.svg
 kiss_mark.svg
@@ -629,8 +644,10 @@ leo.svg
 leopard.svg
 level_slider.svg
 libra.svg
+light_blue_heart.svg
 light_bulb.svg
 light_rail.svg
+lime.svg
 link.svg
 linked_paperclips.svg
 lion.svg
@@ -672,6 +689,7 @@ mantelpiece_clock.svg
 manual_wheelchair.svg
 map_of_japan.svg
 maple_leaf.svg
+maracas.svg
 martial_arts_uniform.svg
 mate.svg
 meat_on_bone.svg
@@ -708,6 +726,7 @@ monkey_face.svg
 monorail.svg
 moon_cake.svg
 moon_viewing_ceremony.svg
+moose.svg
 mosque.svg
 mosquito.svg
 motor_boat.svg
@@ -805,6 +824,7 @@ paintbrush.svg
 palm_tree.svg
 pancakes.svg
 panda.svg
+paperclip.svg
 parachute.svg
 parrot.svg
 part_alternation_mark.svg
@@ -814,6 +834,7 @@ passenger_ship.svg
 passport_control.svg
 pause_button.svg
 paw_prints.svg
+pea_pod.svg
 peace_symbol.svg
 peach.svg
 peacock.svg
@@ -832,6 +853,7 @@ person_with_bunny_ears.svg
 person_wrestling.svg
 person_zombie.svg
 petri_dish.svg
+phoenix_bird.svg
 pick.svg
 pickup_truck.svg
 pie.svg
@@ -843,6 +865,7 @@ pill.svg
 pine_decoration.svg
 pineapple.svg
 ping_pong.svg
+pink_heart.svg
 pirate_flag.svg
 pisces.svg
 pizza.svg
@@ -976,6 +999,7 @@ service_dog.svg
 seven-thirty.svg
 seven_oclock.svg
 sewing_needle.svg
+shaking_face.svg
 shallow_pan_of_food.svg
 shamrock.svg
 shark.svg
@@ -1180,6 +1204,7 @@ upwards_button.svg
 vertical_traffic_light.svg
 vibration_mode.svg
 video_camera.svg
+video_game.svg
 videocassette.svg
 violin.svg
 virgo.svg
@@ -1224,8 +1249,10 @@ wind_chime.svg
 wind_face.svg
 window.svg
 wine_glass.svg
+wing.svg
 winking_face.svg
 winking_face_with_tongue.svg
+wireless.svg
 wolf.svg
 woman_genie.svg
 woman_with_bunny_ears.svg
